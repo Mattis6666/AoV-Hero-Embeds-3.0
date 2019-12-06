@@ -1,0 +1,5 @@
+!tagcreate !tierlist advanced {
+  "title": "AoV Tierlist", "thumbnail": "https://i.imgur.com/axVlgz4.png", "color": "RANDOM", "image": "https://i.imgur.com/86L3CrZ.jpg", "description": "This is the latest tierlist for Ranked!\n\n__**LEGEND:**__\n\n__S__ = Strongest - more S => Even stronger\n__A__ = Pretty strong\n__B__ = Pretty bad\n__F__ = Horrible\n\n__Purple Frame__ = Very hard to play\n__Red Frame__ = Hard\n__Orange Frame__ = Medium\n__Green__ = Very easy\n\n__L__ = Especially strong in Late game\n__E__ = Especially strong in early game", "footer": {
+    "text": "Tierlist by Doyser"
+  }
+}

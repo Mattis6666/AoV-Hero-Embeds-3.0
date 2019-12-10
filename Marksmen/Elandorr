@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Elandorr",
+    "icon_url": "https://i.imgur.com/KjCyGsc.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: S",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/PGoh6sp.jpg",
+  "image": "https://i.imgur.com/4LU0JIE.jpg",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Abyssal, Jungle",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Blitz, Guerilla, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {spr} or {pun} ",
+      "value": " {fta} {wb} {cs} {bos} {ss} {boe} \n\n {sw} {gg} {cs} {bos} {mur} {boe} ",
+      "inline": false
+    }
+  ]
+}

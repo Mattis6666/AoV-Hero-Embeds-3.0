@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Natalya",
+    "icon_url": "https://i.imgur.com/2ykK0bh.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "Tier: A+",
+    "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+  },
+  "thumbnail": "https://i.imgur.com/L5HjEqN.jpg",
+  "image": "https://i.imgur.com/qzE6MBm.png",
+  "fields": [
+    {
+      "name": "Position",
+      "value": "Mid",
+      "inline": true
+    },
+    {
+      "name": "Arcanas",
+      "value": "Violate, Benevolence, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": " {ootm} {ek} {boo} {hd} {rb} {son} ",
+      "inline": false
+    },
+    {
+      "name": "Useful Links",
+      "value": "Click [here](https://www.youtube.com/watch?v=L8b5SxiGf3M) to check out Natalya's Hero Spotlight!",
+      "inline": false
+    }
+  ]
+}

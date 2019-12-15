@@ -1,0 +1,30 @@
+
+   "author": {
+      "name": "Volkath ",
+      "icon_url": "https://i.imgur.com/yfptDE9.png"
+   },
+   "color": 53380,
+   "footer": {
+      "text": "Tier: A",
+      "icon_url": "https://images.emojiterra.com/google/android-nougat/512px/1f3c6.png"
+   },
+   "thumbnail": "https://i.imgur.com/KBTzKc6.jpg",
+   "image": "https://i.imgur.com/Kg5OEGW.png",
+   "fields": [
+      {
+         "name": "Position",
+         "value": "Jungle, Slayer",
+         "inline": true
+      },
+      {
+         "name": "Arcanas",
+         "value": "Onslaught, Assassinate , Skewer",
+         "inline": false
+      },
+      {
+         "name": "Build + {pun} / {spr} ",
+         "value": " {sr} {wb} {ran} {hm} {ft} {boe} \n\n {gg} {ran} {oa} {hm} {ft} {ds} ",
+         "inline": false
+      }
+   ]
+}

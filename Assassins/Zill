@@ -1,0 +1,27 @@
+{"color": 53380,
+  "author": {
+    "name": "Zill",
+    "icon_url": "https://i.imgur.com/K29f4f8.png"
+  },
+  "fields": [
+    { "name": "Position", "value": "Jungle", "inline": true },
+    {
+      "name": "Arcana",
+      "value": "Violate, Guerilla, Flurry",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun} ",
+      "value": " {lc} {ek} {sm} {hd} {rb} {ao} ",
+      "inline": false
+    },
+    {
+      "name": "Hero Spotlight",
+      "value": "Click [here](https://www.youtube.com/watch?v=6WS11M20XWM) to check out Zill's Hero Spotlight!",
+      "inline": false
+    }
+  ],
+  "thumbnail": "https://i.imgur.com/63NBWd1.png",
+  "image": "https://i.imgur.com/RldSO9E.png",
+  "footer": { "text": "Tier: A", "icon_url": "https://i.imgur.com/foUI6Sg.png" }
+}

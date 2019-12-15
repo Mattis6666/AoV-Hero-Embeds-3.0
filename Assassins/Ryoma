@@ -1,0 +1,27 @@
+{ "color": 53380,
+  "author": {
+    "name": "Ryoma",
+    "icon_url": "https://i.imgur.com/K29f4f8.png"
+  },
+  "fields": [
+    { "name": "Position", "value": "Slayer", "inline": true },
+    {
+      "name": "Arcana",
+      "value": "Onslaught, Assassinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": " {gg} {ran} {fc} {ft} {mot} {boe} ",
+      "inline": false
+    },
+    {
+      "name": "Hero Spotlight",
+      "value": "Click [here](https://youtu.be/1bX5YKSE8WU) to check out Ryoma's Hero Spotlight!",
+      "inline": false
+    }
+  ],
+  "thumbnail": "https://i.imgur.com/gQeOIYV.png",
+  "image": "https://i.imgur.com/Y8Pg4oX.png",
+  "footer": { "text": "Tier: B", "icon_url": "https://i.imgur.com/foUI6Sg.png" }
+}

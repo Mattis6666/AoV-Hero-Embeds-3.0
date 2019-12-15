@@ -1,0 +1,27 @@
+{"color": 53380,
+  "author": {
+    "name": "Zuka",
+    "icon_url": "https://i.imgur.com/K29f4f8.png"
+  },
+  "fields": [
+    { "name": "Position", "value": "Slayer or Jungle", "inline": true },
+    {
+      "name": "Arcana",
+      "value": "Atrocity, Assassinate, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {pun} or {fli} ",
+      "value": " {gg} {ran} {oa} {hm} {ft} {boe} \n\n {sr} {gg} {ran} {oa} {ft} {boe} ",
+      "inline": false
+    },
+    {
+      "name": "Hero Spotlight",
+      "value": "No Spotlight available!",
+      "inline": false
+    }
+  ],
+  "thumbnail": "https://i.imgur.com/klTA7v5.jpg",
+  "image": "https://i.imgur.com/Y8Pg4oX.png",
+  "footer": { "text": "Tier: A", "icon_url": "https://i.imgur.com/foUI6Sg.png" }
+}

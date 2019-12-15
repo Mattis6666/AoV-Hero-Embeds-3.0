@@ -1,0 +1,23 @@
+{"color": 53380,
+  "author": {
+    "name": "Wukong",
+    "icon_url": "https://i.imgur.com/K29f4f8.png"
+  },
+  "fields": [
+    { "name": "Position", "value": "Jungle or Slayer", "inline": true },
+    { "name": "Arcana", "value": "Rampage, Reave, Skewer", "inline": false },
+    {
+      "name": "Build + {pun} or {spr} ",
+      "value": " {sr} {hs} {cs} {ss} {ran} {ft} \n\n {hs} {cs} {ss} {ran} {oa} {boe} ",
+      "inline": false
+    },
+    {
+      "name": "Hero Spotlight",
+      "value": "Click [here](https://www.youtube.com/watch?v=hWcXQgEswpw) to check out Wukong's Hero Spotlight!",
+      "inline": false
+    }
+  ],
+  "thumbnail": "https://i.imgur.com/ZebfMwu.png",
+  "image": "https://i.imgur.com/Y8Pg4oX.png",
+  "footer": { "text": "Tier: C", "icon_url": "https://i.imgur.com/foUI6Sg.png" }
+}

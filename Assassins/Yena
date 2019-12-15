@@ -1,0 +1,27 @@
+{"color": 53380,
+  "author": {
+    "name": "Yena",
+    "icon_url": "https://i.imgur.com/K29f4f8.png"
+  },
+  "fields": [
+    { "name": "Position", "value": "Slayer", "inline": true },
+    {
+      "name": "Arcana",
+      "value": "Onslaught, Benevolence, Skewer",
+      "inline": false
+    },
+    {
+      "name": "Build + {fli} ",
+      "value": " {gg} {ran} {fc} {ft} {mot} {boe} ",
+      "inline": false
+    },
+    {
+      "name": "Hero Spotlight",
+      "value": "No Spotlight available!",
+      "inline": false
+    }
+  ],
+  "thumbnail": "https://i.imgur.com/QrESWkR.jpg",
+  "image": "https://i.imgur.com/Kg5OEGW.png",
+  "footer": { "text": "Tier: S", "icon_url": "https://i.imgur.com/foUI6Sg.png" }
+}

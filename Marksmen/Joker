@@ -23,7 +23,7 @@
     },
     {
       "name": "Build + {fli} ",
-      "value": " {hs} {rb} {oa} {ds} {ft} {mur} ",
+      "value": " {hs} {ran} {oa} {ds} {ft} {mur} ",
       "inline": false
     },
     {

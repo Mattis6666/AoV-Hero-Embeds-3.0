@@ -1,4 +1,4 @@
-{
+!tagcreate !lindis basic {
   "author": {
     "name": "Lindis ",
     "icon_url": "https://i.imgur.com/KjCyGsc.png"
@@ -23,7 +23,7 @@
     },
     {
       "name": "Build + {pun} ",
-      "value": " {sw} {gg} {ran} {cs} {oa} {boe} ",
+      "value": " {sw} {gg} {ran} {cs} {oa} {bos} ",
       "inline": false
     },
     {
